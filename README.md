@@ -3,6 +3,6 @@ a clone of a personal website about series of magazines called the backstage tal
 # Features
 the key feature is the responsive background which it switches to relative to scrolling 
 # Link
-[the original website](https://backstagetalks.com)
-[the clone](https://ilyas-draissia.github.io/Backstage-talks/)
+the original website [link](https://backstagetalks.com) .
+the clone [link](https://ilyas-draissia.github.io/Backstage-talks/) .
 
