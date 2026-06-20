@@ -1,0 +1,29 @@
+colors :
+1 - Background color : F6E0A4, Link color : FFFFFF .
+2 - Background color : FF608C, Link color : FFFFFF .
+3 - Background color : FFFFFF, Link color : EB6FAC .
+4 - Background color : 2FCCC3, Link color : FFFFFF .
+5 - Background color : DE712D, Link color : FFFFFF .
+6 - Background color : FFBE00, Link color : FFFFFF .
+7 - Background color : 1D3FBB, Link color : FFFFFF .
+8 - Background color : E30512, Link color : FFFFFF .
+
+font : Roboto
+
+sold out :
+
+<h3>issue #n is sold out</h3>
+<p>If you are lucky, you may get the last pieces in <a>selected stores</a>.</p>
+
+availble :
+
+<h3>issue #n</h3>
+<h3>BUY HERE</h3>
+<p>or in <a href="">selected stores</a>.</p>
+
+or :
+
+<h3>issue #n</h3>
+<h3><a href="">BUY HERE</a>  (Europe)</h3>
+<h3><a href="">BUY HERE</a>  (UK & Overseas)</h3>
+<p>or in <li>selected stores</li>.</p>
