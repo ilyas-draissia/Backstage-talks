@@ -14,7 +14,17 @@ const observer = new IntersectionObserver(((entries)=>{
 issues.forEach((issue)=>{
     observer.observe(issue);
 })
-
+const initial = [...issues].findIndex((issue)=>{
+    const rec = issue.getBoundingClientRect();
+    return rec.top >= 0 && rec.top < window.innerHeight;
+});
+if (initial !== -1){
+    const color = colors[initial];
+    issues.forEach((issue)=>{
+        issue.style.backgroundColor = color;
+        footer.style.backgroundColor = color;
+    })
+}
 
 
 

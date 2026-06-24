@@ -225,27 +225,3 @@ img{
         max-width: 25%;
     }
 }
-.n8{
-    background-color: var(--Bckgrnd-color-8);
-}
-.n7{
-    background-color: var(--Bckgrnd-color-7);
-}
-.n6{
-    background-color: var(--BckgrndPlusFont-color-6);
-}
-.n5{
-    background-color: var(--Bckgrnd-color-5);
-}
-.n4{
-    background-color: var(--Bckgrnd-color-4);
-}
-.n3{
-    background-color: var(--Bckgrnd-color-3);
-}
-.n2{
-    background-color: var(--Bckgrnd-color-2);
-}
-.n1{
-    background-color: var(--Bckgrnd-color-1);
-}
